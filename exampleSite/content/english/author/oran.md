@@ -1,6 +1,6 @@
 ---
 title: ORAN
-image: ''
+image: 'https://profileimages.torn.com/9d31a3bf-02d6-d29d-1778676.png'
 email: oran@oran.pw
 social:
 - icon: ti-facebook
