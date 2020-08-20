@@ -7,18 +7,11 @@ theme = "meghna-hugo"
 title = "Meghna"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "copyright &copy; 2020 TORNHUB all right reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [[menu.main]]
 URL = "about"
 name = "about"
@@ -47,13 +40,9 @@ weight = 6
 URL = "contact"
 name = "contact"
 weight = 7
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "themefisher"
-weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "ORAN"
+description = "A Torn City Fan Site"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
