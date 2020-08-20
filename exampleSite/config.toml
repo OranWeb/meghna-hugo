@@ -1,7 +1,7 @@
 baseURL = "https://tornsite.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
-paginate = "6"
+paginate = "20"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "TORN HUB "
